@@ -1,2 +1,3 @@
-server:
-  port:1001
+user:
+  username:leilei
+  password:123456
